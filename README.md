@@ -22,4 +22,6 @@ The entire analytics layer is written in **100% SQL** (PostgreSQL), with **Table
 ### LendingClub Loan Data (2007–2018)
 
 LendingClub was the world's largest peer-to-peer lending platform. Borrowers applied for personal loans online and were funded by individual investors. The platform operated from 2007 until it discontinued retail investor access in 2020.
+<img width="821" height="432" alt="image" src="https://github.com/user-attachments/assets/b1589f8d-e64c-4644-8e7a-996eb3a75e43" />
+
 
