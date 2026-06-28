@@ -1,4 +1,4 @@
-# 🏦 Fintech Lending Analytics Platform
+# 🏦 Fintech Credit Risk and Profitability Analysis
 ### SQL + Tableau | LendingClub Dataset | Credit Risk Analytics
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -14,3 +14,12 @@
 A production-style credit analytics platform built on **2.26 million real LendingClub loan records** spanning 2007–2018. The project integrates customer demographics, loan terms, repayment history, and credit bureau data into a unified SQL data model — then uses that model to power risk analytics, customer segmentation, a rule-based credit approval engine, and a profitability simulation framework.
 
 The entire analytics layer is written in **100% SQL** (PostgreSQL), with **Tableau** dashboards for business intelligence and a **Python** script for initial data cleaning and CSV export.
+
+## 📂 Repository Structure
+<img width="792" height="467" alt="image" src="https://github.com/user-attachments/assets/f6c1acc0-c7ea-4db3-a3c1-8bc9a23336e2" />
+
+## 📂 Dataset info
+### LendingClub Loan Data (2007–2018)
+
+LendingClub was the world's largest peer-to-peer lending platform. Borrowers applied for personal loans online and were funded by individual investors. The platform operated from 2007 until it discontinued retail investor access in 2020.
+
